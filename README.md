@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pvenkatcharan-since2002
+- 👋 Hi, I’m @pvc-since2002
 - 👀 I’m interested in ... new stuff
 - 🌱 I’m currently learning ... application development
 - 💞️ I’m looking to collaborate on ... weekly basis
